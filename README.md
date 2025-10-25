@@ -63,7 +63,8 @@ Before creating the dashboard:
 - `Blinkit_Sales_Dashboard.xlsx` – Excel dashboard file  
 - `BlinkIT Grocery Data Excel.xlsx` – Processed dataset  
 - `Dashboard.png` – Dashboard preview image
-- Report.docx - Overview of Insights 
+- Report.docx - Overview of Insights
+- 'EXCELblinkitDashboard' - Download and open in Excel to have the overall project
 
 ---
 
